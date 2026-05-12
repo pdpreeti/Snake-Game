@@ -63,14 +63,6 @@ cd Snake-Game
 
 Then open `index.html` in your browser.
 
-## 📸 Screenshot
-
-Add your game screenshot here.
-
-```md
-![Snake Game Screenshot](screenshot.png)
-```
-
 ## 🌟 Future Improvements
 
 - Add sound effects
